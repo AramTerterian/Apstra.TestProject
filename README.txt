@@ -5,7 +5,7 @@ for a list of IP adresses.
 ----------------------------------------------------------------------------
 
 INPUT DATA:
-Fill in the "input.txt" file with a list of IP adresses (1 or more items) in 
+Fill in the "Apstra.TestProject.Starter\bin\Debug\input.txt" file with a list of IP adresses (1 or more items) in 
 the next format:
 X.X.X.X
 X.X.X.X
@@ -19,12 +19,13 @@ For example:
 -----------------------------------------------------------------------------
 
 START A PROGRAM:
-Execute the "Apstra.TestProject" program file.
+Execute the "Apstra.TestProject" program file or start an application from an 
+IDE.
 
 -----------------------------------------------------------------------------
 
 OUTPUT DATA:
-The result is a subnet mask in the file "output.txt" in the format:
+The result is a subnet mask in the file "Apstra.TestProject.Starter\bin\Debug\output.txt" in the format:
 X.X.X.X
 
 For example:
