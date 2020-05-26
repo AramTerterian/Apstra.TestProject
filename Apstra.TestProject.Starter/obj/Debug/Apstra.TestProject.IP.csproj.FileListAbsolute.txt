@@ -1,0 +1,7 @@
+C:\Users\Фкеш.ARTI\source\repos\Apstra.TestProject.IP\Apstra.TestProject.IP\bin\Debug\Apstra.TestProject.IP.exe.config
+C:\Users\Фкеш.ARTI\source\repos\Apstra.TestProject.IP\Apstra.TestProject.IP\bin\Debug\Apstra.TestProject.IP.exe
+C:\Users\Фкеш.ARTI\source\repos\Apstra.TestProject.IP\Apstra.TestProject.IP\bin\Debug\Apstra.TestProject.IP.pdb
+C:\Users\Фкеш.ARTI\source\repos\Apstra.TestProject.IP\Apstra.TestProject.IP\obj\Debug\Apstra.TestProject.IP.csprojAssemblyReference.cache
+C:\Users\Фкеш.ARTI\source\repos\Apstra.TestProject.IP\Apstra.TestProject.IP\obj\Debug\Apstra.TestProject.IP.csproj.CoreCompileInputs.cache
+C:\Users\Фкеш.ARTI\source\repos\Apstra.TestProject.IP\Apstra.TestProject.IP\obj\Debug\Apstra.TestProject.IP.exe
+C:\Users\Фкеш.ARTI\source\repos\Apstra.TestProject.IP\Apstra.TestProject.IP\obj\Debug\Apstra.TestProject.IP.pdb

@@ -1,0 +1,6 @@
+Incorrect format of IP adresses or an empty input data. 
+You should fill at least one IP address. 
+
+A correct example:
+192.168.1.1
+192.168.1.98
